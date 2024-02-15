@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Apply Now</name>
+   <tag></tag>
+   <elementGuidId>a2723f28-4b99-4823-b171-7e86c785dfde</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.button.red</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[2]/div/div[2]/div/div/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>7dc8e745-a4ac-4f36-a616-cb024b205960</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button red</value>
+      <webElementGuid>1f58d9dc-f9b4-44ca-808a-69d54c7c570f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Apply Now!</value>
+      <webElementGuid>b0f2e957-f6fe-409d-a16e-62484a7aa502</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[1]/div[@class=&quot;content&quot;]/div[@class=&quot;style_bannerWrapper__sh6_p&quot;]/div[@class=&quot;style_bannerContent___7GDV&quot;]/div[@class=&quot;undefined container&quot;]/div[@class=&quot;style_btnWrapper__eL4iP&quot;]/button[@class=&quot;button red&quot;]</value>
+      <webElementGuid>536a09e4-0d17-4224-8436-71881ad04f41</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/div/div[2]/div/div/button</value>
+      <webElementGuid>18f61708-ba72-4aed-bbd7-aba82a480727</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/button</value>
+      <webElementGuid>c5125e06-5ad6-4f98-b727-ec0600d7f7ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Apply Now!' or . = 'Apply Now!')]</value>
+      <webElementGuid>9a8bb0ce-3c50-44fd-bc60-a9f62069b87b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
